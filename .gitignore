@@ -2,3 +2,10 @@
 .json
 .csv
 ._*
+*.log
+*.ini
+.vscode/
+*.db
+*.lock
+__pycache__
+.pytst_cache
