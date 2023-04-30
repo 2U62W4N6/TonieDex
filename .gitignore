@@ -7,4 +7,4 @@
 .vscode/
 *.db
 *.lock
-__pyache__
+__pycache__
