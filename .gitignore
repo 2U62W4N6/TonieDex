@@ -8,3 +8,4 @@
 *.db
 *.lock
 __pycache__
+.pytst_cache
