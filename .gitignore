@@ -6,4 +6,4 @@
 *.ini
 .vscode/
 *.db
-.lock
+*.lock
